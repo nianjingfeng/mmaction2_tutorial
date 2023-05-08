@@ -7,6 +7,7 @@
 - CUDA Version 12.0
 - Docker Version 23.0.2
 - NVIDIA Container Toolkit Version 1.13.0
+- mmaction v1.0.0 mmcv v2.0.0
 ## Preparation
 - [Docker Engine](https://docs.docker.com/engine/install/ubuntu/)
 - [NVIDIA CONTAINER TOOLKIT](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html)
