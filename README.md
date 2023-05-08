@@ -12,6 +12,7 @@
 - [NVIDIA CONTAINER TOOLKIT](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html)
 - Visual Studio Code IDE
 - Git
+- [Training data](https://drive.google.com/file/d/1qmcXhWKceV1nEFOeTj1JyNEGcSPkO7pV/view?usp=share_link), you can check the structure of training file by this. 
 ## Step
 ---
 1. Download the repo.
