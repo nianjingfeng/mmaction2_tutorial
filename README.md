@@ -14,7 +14,12 @@
 - Git
 ## Step
 ---
-1. Build the docker image.
+1. Download the repo.
+```
+git clone https://github.com/nianjingfeng/mmaction2_tutorial.git
+cd mmaction2_tutorial
+```
+3. Build the docker image.
 ```
 docker build -t mmaction2 .
 ```
@@ -36,7 +41,9 @@ python demo.py tsn_imagenet-pretrained-r50_8xb32-1x1x8-100e_kinetics400-rgb.py t
 ```
 The output is shown below:
 ```
-[](https://github.com/nianjingfeng/mmaction2_tutorial/blob/master/line_20230508_195041.png)
+
+![result](https://github.com/nianjingfeng/mmaction2_tutorial/blob/master/line_20230508_195041.png)
+
 5. Set config and training file to proper path.
 ```
 mv data/5g_train.py /mmaction2/tools/5g_train.py
